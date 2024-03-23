@@ -8,10 +8,14 @@ export default {
     colors: {
       'orange': '#e38625',
       'green': '#006971',
-      'dark-gree': '#004140',
+      'dark-green': '#004140',
       'offwhite': 'rgba(255, 255, 255, 0.75)',
       'white': '#fff',
       'offwhitebg': '#f2f2f2'
+    },
+    fontFamily: {
+      'shoulders': '"Big Shoulders Display"',
+      'lexend': '"Lexend Deca"'
     }
   },
   plugins: [],
